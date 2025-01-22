@@ -39,13 +39,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Primeiro desafio de Lógica de Programação",
+      "url": "https://github.com/PedroRodRibeiro/Primeiro-desafio-felipao-DIO",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Segundo desafio de Lógica de Programação",
+      "url": "https://github.com/PedroRodRibeiro/Segundo-desafio-felipao-DIO",
+      "github": true
+    },
+    {
+      "name": "Terceiro desafio de Lógica de Programação",
+      "url": "https://github.com/PedroRodRibeiro/Terceiro-desafio-felipao-DIO",
       "github": true
     }
   ],
